@@ -1,5 +1,4 @@
 ## movie-ticket-booking
-?
 
 #### Steps to run this repo 
 - clone this repository
